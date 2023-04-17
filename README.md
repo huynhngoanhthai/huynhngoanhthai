@@ -78,44 +78,32 @@ Huynh Ngo Anh Thai. I'm from Viet Nam. I'm a newbie to the programming world & w
 <!-- <a href = ""><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a> -->
 </p>
 
-## 🪐 Lastest Followers
+## 🪐 Lastest Following
 
 <!-- FOLLOWER-LIST:START -->
 <table>		
 <td align="center">
-     <a href="https://github.com/EricNguyen1206">
-       <img src="https://avatars.githubusercontent.com/u/63888253?v=4" width="100px;" alt="EricNguyen1206"/>
+     <a href="https://github.com/conanak99">
+       <img src="https://avatars.githubusercontent.com/u/6670026?v=4" width="100px;" alt="conanak99"/>
      </a>
      <br />
-     <a href="https://github.com/EricNguyen1206">EricNguyen1206</a>
-  </td>		
-<td align="center">
-     <a href="https://github.com/akirahani">
-       <img src="https://avatars.githubusercontent.com/u/79439944?v=4" width="100px;" alt="akirahani"/>
+     <a href="https://github.com/conanak99">conanak99</a>
+  </td>	 
+  
+  <td align="center">
+     <a href="https://github.com/meabhisingh">
+       <img src="https://avatars.githubusercontent.com/u/25058652?v=4" width="100px;" alt="meabhisingh"/>
      </a>
      <br />
-     <a href="https://github.com/akirahani">akirahani</a>
-  </td>		
-<td align="center">
-     <a href="https://github.com/vokimson">
-       <img src="https://avatars.githubusercontent.com/u/84184229?v=4" width="100px;" alt="vokimson"/>
+     <a href="https://github.com/meabhisingh">meabhisingh</a>
+  </td>	 
+  
+  <td align="center">
+     <a href="https://github.com/Fonger">
+       <img src="https://avatars.githubusercontent.com/u/5862369?v=4" width="100px;" alt="Fonger"/>
      </a>
      <br />
-     <a href="https://github.com/vokimson">vokimson</a>
-  </td>		
-<td align="center">
-     <a href="https://github.com/hoangtien2k3">
-       <img src="https://avatars.githubusercontent.com/u/91842746?v=4" width="100px;" alt="hoangtien2k3"/>
-     </a>
-     <br />
-     <a href="https://github.com/hoangtien2k3">hoangtien2k3</a>
-  </td>	
-<td align="center">
-     <a href="https://github.com/huychuong23">
-       <img src="https://avatars.githubusercontent.com/u/101076115?v=4" width="100px;" alt="huychuong23"/>
-     </a>
-     <br />
-     <a href="https://github.com/huychuong23">huychuong23</a>
+     <a href="https://github.com/Fonger">Fonger</a>
   </td>	 
 </table>
 <!-- FOLLOWER-LIST:END -->
