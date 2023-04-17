@@ -73,8 +73,9 @@ Huynh Ngo Anh Thai. I'm from Viet Nam. I'm a newbie to the programming world & w
 <a href = "https://github.com/huynhngoanhthai"><img src="https://img.icons8.com/fluent/48/000000/github.png"/></a>
 <a href = "https://www.facebook.com/anh.thai.huynh.010900"><img src="https://img.icons8.com/color/48/000000/facebook-new.png"/></a>
 <a href = "https://www.instagram.com/anhthaihuynh/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<!-- <a href = ""><img src="https://img.icons8.com/fluent/48/000000/resume-website.png"/></a> -->
 <a href = "mailto: huynhngoanhthai@gmail.com"><img src="https://img.icons8.com/color/48/000000/apple-mail.png"/></a>
+<!-- <a href = ""><img src="https://img.icons8.com/fluent/48/000000/resume-website.png"/></a> -->
+
 <!-- <a href = ""><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a> -->
 </p>
 
