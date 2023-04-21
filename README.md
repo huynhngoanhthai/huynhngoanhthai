@@ -54,7 +54,7 @@ Huynh Ngo Anh Thai. I'm from Viet Nam. I'm a newbie to the programming world & w
 
 ## 🏃‍♂️ Github Streak
 
-  [![GitHub Streak](https://githud-reame-profile.vercel.app?user=Anh-Thai&theme=radical&hide_border=true&locale=vi)](https://git.io/streak-stats)
+  [![GitHub Streak](https://githud-reame-profile-git-main-huynhngoanhthai.vercel.app/demo/preview.php?user=Anh-Thai&theme=radical&hide_border=true)](https://git.io/streak-stats)
 ## 🌟 Github Stats
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
